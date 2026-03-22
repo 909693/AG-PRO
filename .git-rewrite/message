@@ -1,0 +1,12 @@
+feat: add list view mode and complete i18n translations
+
+- Add new list view mode as an alternative to card view
+- Implement compact table-based layout with progress circle indicators
+- Support drag-and-drop reordering in list view
+- Add view mode toggle (card/list) in settings menu
+- Complete missing translations for all 12 supported languages:
+  - dashboard.modelName, dashboard.name, dashboard.remainingQuota
+  - grouping.nameLabel
+  - viewMode.title, viewMode.card, viewMode.list
+  - displayMode.title, displayMode.webview, displayMode.quickpick
+- Languages updated: ja, es, de, fr, it, ko, pt-br, ru, zh-tw, tr, pl, cs

@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep:*)",
+      "Bash(find src:*)",
+      "Bash(npm run:*)",
+      "Bash(npx:*)",
+      "Bash(npm list:*)",
+      "Bash(magick:*)",
+      "Bash(cd assets:*)",
+      "Bash(cat:*)",
+      "mcp__playwright-mcp-server__browser_navigate",
+      "Bash(cd:*)",
+      "Bash(ls:*)",
+      "mcp__fetch__fetch",
+      "Bash(git add:*)"
+    ]
+  }
+}
